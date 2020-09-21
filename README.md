@@ -1,6 +1,6 @@
 PyUserInput
 ===========
-
+[![Run on Repl.it](https://repl.it/badge/github/SavinaRoja/PyUserInput)](https://repl.it/github/SavinaRoja/PyUserInput)
 **PyUserInput is a group project so we've moved the project over to a group
 organization: https://github.com/PyUserInput/PyUserInput . That is now the
 active development repository and I'll be phasing this one out, so please go
